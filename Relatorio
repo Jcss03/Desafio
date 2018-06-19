@@ -1,3 +1,8 @@
-Ferramentas utilizadas na manipulação dos dados
+Objetivo: Atravez da analise dos dados (URL: http://turismo.gov.br/dadosabertos/cadasturpj/MeiodeHospedagem201801TrimestreCadasturPJ.csv) aqui encontrados, busquei encontrar prestadoras de serviço Turistico por Idiomas utilizados. Essa informação ajuda a Turistas Estrangeiros a encontrar lugares adequados, pois nem todos falam a mesma lingua.
 
-Jupyter NoteBook com a linguagem Python
+
+Ferramentas utilizadas na manipulação dos dados
+    Jupyter NoteBook com a linguagem Python
+    
+   Conclusao
+   Atravez da analise, Estrangeiros podem encontrar hospedagens que atendam com o idioma que ele ache mais confortavel.
