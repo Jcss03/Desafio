@@ -11,3 +11,6 @@ Conclusao
 Falta Implementar
     analise de outro dataset que mostra a quantidade de turistas estrangeiros que entram no país e de onde eles veem.
     Atraves dessa analise podemos(hipoteticamente) prever qual idioma(Turistas Estrangeiros) veem aumentando sua presença e em qual localidade(Estado) para com isso alertarmos as hospedagens que ainda não prestam serviço com determinado idioma, que turistas que falam esse idioma provavelmente iram aumentar a quantidade e que investir nessa area pode trazer mais competitividade para o negocio.
+    
+    dataset a ser analisado URL: http://dados.turismo.gov.br/images/csv/chegadas/chegadas_2016.csv
+    
